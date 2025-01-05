@@ -19,9 +19,8 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-
 ## :star2: Acknowledgements
 * [Antonio Brandi](https://github.com/AntoBrandi/Bumper-Bot/tree/main)
 
+## License
 [MIT](https://choosealicense.com/licenses/mit/)# auto_ws
